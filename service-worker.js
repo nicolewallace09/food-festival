@@ -19,7 +19,7 @@ const FILES_TO_CACHE = [
   ];
 
 
-// adding files to the precache so that the application can use the cache 
+// adding files to the precache so that the application can use the cache (installing service worker)
 self.addEventListener('install', function (e) {
     e.waitUntil(
         caches.open(CACHE_NAME).then(function (cache) {
