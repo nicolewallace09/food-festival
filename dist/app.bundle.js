@@ -90,11 +90,10 @@
 /*!***********************************!*\
   !*** ./assets/img/food-table.jpg ***!
   \***********************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
+/*! no static exports found */
+/***/ (function(module, exports) {
 
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"assets/img/food-table.jpg\");\n\n//# sourceURL=webpack:///./assets/img/food-table.jpg?");
+eval("module.exports = \"assets/img/food-table.jpg\";\n\n//# sourceURL=webpack:///./assets/img/food-table.jpg?");
 
 /***/ }),
 
@@ -102,11 +101,10 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ 
 /*!******************************!*\
   !*** ./assets/img/grill.jpg ***!
   \******************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
+/*! no static exports found */
+/***/ (function(module, exports) {
 
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"assets/img/grill.jpg\");\n\n//# sourceURL=webpack:///./assets/img/grill.jpg?");
+eval("module.exports = \"assets/img/grill.jpg\";\n\n//# sourceURL=webpack:///./assets/img/grill.jpg?");
 
 /***/ }),
 
