@@ -2,7 +2,7 @@
 ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description 
-This project is the creation of the back end for an e-commerce site. This application used Express.js API and Sequelize to interact with a MySQL database.
+This project demonstrates a Progressive Web Application that has the ability to be installed on a desktop or mobil device. It also demonstrates offline capability using Service Workers and JavaScript/Image bundling using Webpack. 
 
 ## Table of Contents
 * [Installation](#installation)
@@ -13,10 +13,11 @@ This project is the creation of the back end for an e-commerce site. This applic
 * [Questions](#questions)
 
 ## Installation 
-The user should clone the repository from GitHub. This application requires Node.js, Express.js, and Sequelize. To connect to the database run mysql -u root -p and enter password from .env file. Then source the schema.sql. To seed the file run npm run seed. Finally to connect to the server run npm start. 
+The user should clone the repository from GitHub. This application requires installation of Bootstrap, Popper, and jQuery. For development use, install `webpack` and `webpack-cli` and add to script file. For testing purposes this application runs on a webpack localhost:8080 server, but also is deployed as a live Git Hub url. 
 
 ## Usage 
 This application will allow users to view, add, edit, and delete categories, products, and tags.<br>
+Please view live Git Hub link [here](https://nicolewallace09.github.io/food-festival/)<br>
 <img scr='assets/img/screen.png'>
 
 ## License 
